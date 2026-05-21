@@ -1,0 +1,9 @@
+*.smi
+*.sdf
+!results/predictions/all_predictions.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+temp_*
+chunk_*
