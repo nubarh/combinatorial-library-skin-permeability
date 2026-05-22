@@ -4,7 +4,7 @@ Raw data files are not included due to file size constraints.
 
 ## ChEMBL Building Blocks
 Download from: https://www.ebi.ac.uk/chembl/
-Filters: Small molecule, Ro5 violations = 0, Version 35
+Filters: Small molecule, Ro5 violations = 0, Version 36
 Expected: ~1,348,305 compounds in CSV format
 
 ## Skin Permeability Reference Datasets
