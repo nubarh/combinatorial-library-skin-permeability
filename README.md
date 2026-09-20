@@ -17,23 +17,23 @@ unsupervised space mapping → supervised property prediction → applicability 
 ## Pipeline
 ChEMBL (>1M structures)
 │
-▼
+>
 Building block curation
 (RDKit Morgan fingerprint similarity → 470 prioritised scaffolds)
 │
-▼
+>
 Library enumeration
 (Synt-On reaction-based enumeration → 1,047 drug-like molecules)
 │
-▼
+>
 Chemical space mapping
 (Bemis–Murcko scaffold analysis + Generative Topographic Mapping)
 │
-▼
+>
 Property prediction
 (ISIDA fragment descriptors → ensemble QSPR model for skin permeability)
 │
-▼
+>
 Applicability domain analysis
 (88.7% coverage · scaffold–property trade-off analysis)
 
